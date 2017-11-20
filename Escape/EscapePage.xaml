@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Escape" x:Class="Escape.EscapePage">
+    <!--
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "0" Grid.Column = "0"
+             BackgroundColor = "Aqua">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "0" Grid.Column = "1"
+             BackgroundColor = "Blue">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "0" Grid.Column = "2"
+             BackgroundColor = "Fuchsia">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "1" Grid.Column = "0"
+             BackgroundColor = "Gray">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "1" Grid.Column = "1"
+             BackgroundColor = "Green">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "1" Grid.Column = "2"
+             BackgroundColor = "Red">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "2" Grid.Column = "0"
+             BackgroundColor = "Lime">
+            
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "2" Grid.Column = "1"
+             BackgroundColor = "Maroon">
+             <Button
+                 Text = "adnsamdn"
+                  VerticalOptions = "CenterAndExpand"
+                />
+        </StackLayout>
+        <StackLayout
+             Orientation = "Vertical"
+             VerticalOptions = "FillAndExpand"
+             Grid.Row = "2" Grid.Column = "2"
+             BackgroundColor = "Black">
+            
+        </StackLayout>
+    </Grid>
+    -->
+</ContentPage>

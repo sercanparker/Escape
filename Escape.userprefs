@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{AE46409E-9B23-45E7-883A-2B654D0B051B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Escape/EscapePage.xaml" Line="82" Column="1" />
+      <File FileName="Escape/EscapePage.xaml.cs" Line="16" Column="1" />
+      <File FileName="Escape/Utilities/RandomGenerator.cs" Line="36" Column="1" />
+      <File FileName="Escape/App.xaml.cs" Line="12" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/delta/Projects/Escape/Escape/EscapePage.xaml.cs" relfile="Escape/EscapePage.xaml.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Escape.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.ffd14d03da4fa2fad7965422daa2080ef5b3aa32">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="P626C9ZU73" TeamId="GH3T34F8PH" />
+  </MonoDevelop.Ide.ItemProperties.Escape.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

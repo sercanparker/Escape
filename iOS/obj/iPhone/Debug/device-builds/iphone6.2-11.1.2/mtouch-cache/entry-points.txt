@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/delta/Projects/Escape/iOS/obj/iPhone/Debug/device-builds/iphone6.2-11.1.2/mtouch-cache/Link/System.dll
+Function=mono_pmip
